@@ -39,6 +39,12 @@ import java.util.List;
 import java.util.Timer;
 import java.util.TimerTask;
 
+/**
+ * leanback框架会加载的fragment
+ *
+ * @author yinlei
+ * @since 2020-10-23
+ */
 public class MainFragment extends BrowseFragment {
     private static final String TAG = "MainFragment";
 
